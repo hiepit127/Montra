@@ -82,5 +82,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 extension AppDelegate {
     fileprivate func configuration(){
         
+        
+        
     }
 }
